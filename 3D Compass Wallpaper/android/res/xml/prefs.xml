@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/app_name">
+    <PreferenceCategory android:title="Earth Choose">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="earthChooseCheckbox"
+            android:summary="Earth Choose Locker"
+            android:title="Unlock Earth Chooser" />
+        <ListPreference
+            android:defaultValue="0"
+            android:dependency="earthChooseCheckbox"
+            android:entries="@array/earthStyleNames"
+            android:entryValues="@array/earthStylesValue"
+            android:key="earthChooseList"
+            android:summary="Choose your preferable earth"
+            android:title="Earth Choose" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Compass Choose">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="compassChooseCheckbox"
+            android:summary="Compass Choose Locker"
+            android:title="Unlock Compass Chooser" />
+        <ListPreference
+            android:defaultValue="0"
+            android:dependency="compassChooseCheckbox"
+            android:entries="@array/wheelStyleNames"
+            android:entryValues="@array/wheelStylesValue"
+            android:key="wheelChooseList"
+            android:summary="Choose your preferable Compass"
+            android:title="Compass Choose" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Others Info">
+        <Preference
+            android:key="contactDeveloper"
+            android:summary="Contact to the developer if you need any query"
+            android:title="Developer Contact">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://apps.anrosoft.com" />
+        </Preference>
+        <Preference
+            android:key="shareOption"
+            android:summary="Share this app to your circle"
+            android:title="Share">
+        </Preference>
+        <Preference
+            android:key="rateOption"
+            android:summary="Rate this app in playstore"
+            android:title="Rate">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/details?id=com.anrosoft.compass.wallpaper" />
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

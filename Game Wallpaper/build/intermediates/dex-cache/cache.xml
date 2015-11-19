@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.5\9896d723afaeaae8229546119f9abffac5f8dbc7\gdx-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9896d723afaeaae8229546119f9abffac5f8dbc7">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\release\gdx-1.5.5-152f2561493dc6443c63ec0d07cd42e2885e91b3.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-06b7bac7abc7ebb63c211934902d1eb39a8bdc71.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-ba2a9fdb5a7d692d6dc0ba4a98786f938c078d0d.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-25b2036f0a13bf596ca6d76ba8fc16f1849eb803.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-b4b5190aa3e3e3f41908fa97555fa70f7091ed2f.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-2315681d102a42ec9537ce72d08074f6eef807e5.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v13\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fcf32027f88ac0be1b54b16167a30bde06ab6cd1">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-d0b22afd1b23108d0816bbd03277ced9894a4997.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-c9f7e44ab38980758885376e2e87b33dbcaa3bf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.5\8931a097fc80279c6b9ee695560a85c1e280c7ea\gdx-box2d-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8931a097fc80279c6b9ee695560a85c1e280c7ea">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\release\gdx-box2d-1.5.5-728b469841d54765712ca011a198245cd19f0786.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-a2a779f60393d43a39a91cf76b1d71e1ef4b6bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.5\16bbdb750c6e557693820bbcd31dd992c0f6839f\gdx-backend-android-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16bbdb750c6e557693820bbcd31dd992c0f6839f">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\release\gdx-backend-android-1.5.5-94c14456805665f7ab98775d3a0d9c75a9b5ee6d.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-edc819a510596d1f2012cde57c94ffa8d1192fe2.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-57944b9b99c42347896f084bb5c2f87bcc249abe.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-ac4e8e8d4cc6035abf7bd01a6a3f4a09868c2361.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-42b5af2317f26a5f5843e74f24ecdb843742afa8.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\classes-9d697a91620a45c29988dab5c8b9122414f8a6c4.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-4cd71941c1e982fc3163add4c36d35824f58491f.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-4bf6990a840236f271a9851b988ed11bd3defe2c.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a1eabb956cbad0cd491d3bde2500c12e0c76a2fe.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-61c61c352729ddbb4989f09dae50ded3122899df.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-87ccf358e08782ea6af0edf472962d80d791a782.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-829d9c85128498b71989984bfac65710688f47fa.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-1ac105143c288ba4176fe76bfe8c0d1e09192553.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-3b20bc314e7c4e9a4dc567c005bc08096e2ab6ae.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-68eb4c306b4bd32724e86b68d22b81c0e7c54809.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\classes-19c69bddcc646367966b16889f3778f8371793e3.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-8bb860c6c8b6d7d049a1b1c81f116356c09a7b7e.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-4268a93084cadae92539cf67f4249daa78d7087c.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-f165dfdc3703a8e7611cb6e28973e2da368720fd.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-dd77b0e3c10c294ef4a98b321141d31bccc569da.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v13\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50fd8c7c5556b3516f569f71ed189d61441d59cf">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-e2f857fdf62e4a3ba0f0043f6959b25f271a079f.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="E:\tools\android_studio_projects\Game Wallpaper\android\build\intermediates\pre-dexed\debug\classes-0eca6f755b3973be430c577101e4b2ca7c733d0f.jar" />
+    </item>
+
+</items>

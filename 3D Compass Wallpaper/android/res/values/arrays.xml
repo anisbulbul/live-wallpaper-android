@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="earthStyleNames">
+        <item>Earth 01</item>
+        <item>Earth 02</item>
+        <item>Earth 03</item>
+        <item>Earth 04</item>
+        <item>Earth 05</item>
+        <item>Earth 06</item>
+    </string-array>
+
+    <string-array name="wheelStyleNames">
+        <item>Compass 01</item>
+        <item>Compass 02</item>
+        <item>Compass 03</item>
+        <item>Compass 04</item>
+        <item>Compass 05</item>
+        <item>Compass 06</item>
+    </string-array>
+
+    <string-array name="earthStylesValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="wheelStylesValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>

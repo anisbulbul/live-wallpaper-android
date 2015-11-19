@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.5\9896d723afaeaae8229546119f9abffac5f8dbc7\gdx-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9896d723afaeaae8229546119f9abffac5f8dbc7">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-152f2561493dc6443c63ec0d07cd42e2885e91b3.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\classes-19c69bddcc646367966b16889f3778f8371793e3.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\classes-9d697a91620a45c29988dab5c8b9122414f8a6c4.jar" />
+    </item>
+    <item
+        jar="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-4bf6990a840236f271a9851b988ed11bd3defe2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.5\8931a097fc80279c6b9ee695560a85c1e280c7ea\gdx-box2d-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8931a097fc80279c6b9ee695560a85c1e280c7ea">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.5-728b469841d54765712ca011a198245cd19f0786.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.5\16bbdb750c6e557693820bbcd31dd992c0f6839f\gdx-backend-android-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16bbdb750c6e557693820bbcd31dd992c0f6839f">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-94c14456805665f7ab98775d3a0d9c75a9b5ee6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\anisbulbul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\tools\android_studio_projects\3D Compass Wallpaper\android\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-ba2a9fdb5a7d692d6dc0ba4a98786f938c078d0d.jar" />
+    </item>
+
+</items>

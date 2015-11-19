@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/app_name">
+    <PreferenceCategory android:title="Glow Speed">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="glowSpeedChooseCheckbox"
+            android:summary="Speed Choose Locker"
+            android:title="Unlock Speed Chooser" />
+        <ListPreference
+            android:defaultValue="0"
+            android:dependency="glowSpeedChooseCheckbox"
+            android:entries="@array/glowSpeedStyleNames"
+            android:entryValues="@array/glowSpeedStyleValues"
+            android:key="glowSpeedChooseList"
+            android:summary="Choose glow speed"
+            android:title="Speed Choose" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Glow Sound">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="glowSoundChooseCheckbox"
+            android:summary="Sound Option (ON/OFF)"
+            android:title="Wallpaper Sound" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Others Info">
+        <Preference
+            android:key="contactDeveloper"
+            android:summary="Contact to the developer if you need any query"
+            android:title="Developer Contact">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://apps.anrosoft.com" />
+        </Preference>
+        <Preference
+            android:key="shareOption"
+            android:summary="Share this app to your circle"
+            android:title="Share">
+        </Preference>
+        <Preference
+            android:key="rateOption"
+            android:summary="Rate this app in playstore"
+            android:title="Rate">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/details?id=com.anrosoft.game.wallpaper" />
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

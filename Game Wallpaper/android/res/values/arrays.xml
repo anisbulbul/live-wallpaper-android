@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="glowSpeedStyleNames">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Xtreme</item>
+    </string-array>
+
+    <string-array name="glowSpeedStyleValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
